@@ -154,6 +154,14 @@
     "debugger": "Yes"
   },
   {
+    "name": "gdscript",
+    "full-name": "GDScript",
+    "server-name": "godot",
+    "server-url": "https://github.com/godotengine/godot",
+    "installation-url": "https://github.com/godotengine/godot",
+    "debugger": "Not available"
+  },
+  {
     "name": "gopls",
     "full-name": "Go",
     "server-name": "gopls",
@@ -376,29 +384,11 @@
     "debugger": "Not available"
   },
   {
-    "name": "metals",
-    "full-name": "Scala",
-    "server-name": "Metals",
-    "server-url": "https://scalameta.org/metals",
-    "installation-url": "https://scalameta.org/metals/docs/editors/emacs.html",
-    "debugger": "Not available"
-  },
-  {
     "name": "terraform",
     "full-name": "Terraform",
     "server-name": "terraform-lsp",
     "server-url": "https://github.com/juliosueiras/terraform-lsp",
     "installation": "Git clone outside of $GOPATH; go install",
-    "debugger": "Not available"
-  },
-  {
-    "name": "latex",
-    "full-name": "TeX, LaTeX, etc.",
-    "server-name": "texlab",
-    "server-url": "https://github.com/latex-lsp/texlab",
-    "client-name": "lsp-latex",
-    "client-url": "https://github.com/ROCKTAKEY/lsp-latex",
-    "installation": "cargo install --git https://github.com/latex-lsp/texlab.git",
     "debugger": "Not available"
   },
   {
